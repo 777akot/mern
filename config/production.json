@@ -1,6 +1,6 @@
 {
-    "port": 6000,
+    "port": 80,
     "jwtSecret": "monitor",
     "mongoUri": "mongodb+srv://blakblak:333777@cluster0.qmmvy.mongodb.net/app?retryWrites=true&w=majority",
-    "baseUrl": "http://localhost:6000"
+    "baseUrl": "http://ai-a.herokuapp.com/"
 }
