@@ -1,0 +1,6 @@
+{
+    "port": 6000,
+    "jwtSecret": "monitor",
+    "mongoUri": "mongodb+srv://blakblak:333777@cluster0.qmmvy.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:6000"
+}
